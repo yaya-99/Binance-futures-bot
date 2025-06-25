@@ -1,0 +1,4 @@
+python-binance==1.0.17
+prompt_toolkit==3.0.43
+rich==13.7.1
+streamlit==1.35.0
